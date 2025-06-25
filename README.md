@@ -20,27 +20,12 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="60" style="margin: 0 15px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="60" style="margin: 0 15px;" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="60" style="margin: 0 15px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="60" style="margin: 0 15px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"
-       height="60" style="margin: 0 15px;" alt="Vite" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg"
-       height="60" style="margin: 0 15px;" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/greensock.svg"
-       height="60" style="margin: 0 15px;" alt="GSAP / GreenSock" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"
-       height="60" style="margin: 0 15px;" alt="shadcn/ui" />
-  <img src="https://www.sanity.io/static/images/logo_rounded_square.png"
-       height="60" style="margin: 0 15px;" alt="Sanity" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,ts,react,nodejs,mongodb,git,github,arduino,vite,tailwindcss" />
+  <br />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" style="margin: 10px;" alt="shadcn/ui" />
+  <img src="https://www.sanity.io/static/images/logo_rounded_square.png" height="40" style="margin: 10px;" alt="Sanity" />
+</div>
 
 
 ---
