@@ -18,17 +18,30 @@
 
 ---
 
-### 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=esphome)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square&logo=radixui)
-![Sanity](https://img.shields.io/badge/-Sanity-black?style=flat-square&logo=sanity)
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       height="60" style="margin: 0 15px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       height="60" style="margin: 0 15px;" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       height="60" style="margin: 0 15px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       height="60" style="margin: 0 15px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"
+       height="60" style="margin: 0 15px;" alt="Vite" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg"
+       height="60" style="margin: 0 15px;" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/greensock.svg"
+       height="60" style="margin: 0 15px;" alt="GSAP / GreenSock" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"
+       height="60" style="margin: 0 15px;" alt="shadcn/ui" />
+  <img src="https://www.sanity.io/static/images/logo_rounded_square.png"
+       height="60" style="margin: 0 15px;" alt="Sanity" />
+</p>
+
+
 
 ---
 
