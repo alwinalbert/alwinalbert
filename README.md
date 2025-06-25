@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=7B68EE&size=24&center=true&vCenter=true&width=500&height=40&lines=Welcome!;I'm+a+passionate+developer.;I+love+ESP32,+React+and+more!" />
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm80MGI0M25oOW81bG1iMDZ0MHAwNmdxcmg2MGRmYWg1bDllZmE0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFsdnprczVhbTExYjEzamZzZjl6NzlsaTAxNm1zdnFkZWRoYXVjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="600" alt="Coding gif"/>
 </p>
 
 ---
