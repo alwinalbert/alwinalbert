@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwin Albert</h1>
+<h1 align="center">Hi 👋, I'm Alwin</h1>
 <h3 align="center">Tech explorer | Embedded Dev | Frontend Wizard</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=7B68EE&size=24&center=true&vCenter=true&width=500&height=40&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;I+love+ESP32,+React+and+more!" />
