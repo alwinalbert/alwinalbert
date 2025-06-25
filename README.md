@@ -48,9 +48,9 @@
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alwin-albert-7047162a0/)
 [![Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:alwinalbert70@gmail.com)
-
----
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=alwinalbert&style=flat-square&color=lightgrey" alt="Profile views" />
 </p>
+
 ---
+
