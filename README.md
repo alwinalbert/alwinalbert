@@ -24,6 +24,11 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=esphome)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square&logo=radixui)
+![Sanity](https://img.shields.io/badge/-Sanity-black?style=flat-square&logo=sanity)
 
 ---
 
@@ -33,10 +38,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwinalbert&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwinalbert&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
 ---
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alwin-albert-7047162a0/)
 [![Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:alwinalbert70@gmail.com)
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alwinalbert&style=flat-square&color=lightgrey" alt="Profile views" />
+</p>
 ---
