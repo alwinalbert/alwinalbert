@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alwin</h1>
 <h3 align="center">Tech explorer | Embedded Dev | Frontend Wizard | MERN Stack Dev</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=7B68EE&size=24&center=true&vCenter=true&width=500&height=40&lines=Welcome!;I'm+a+passionate+developer." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=7B68EE&size=24&center=true&vCenter=true&width=500&height=40&lines=Welcome!;passionate+developer." />
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFsdnprczVhbTExYjEzamZzZjl6NzlsaTAxNm1zdnFkZWRoYXVjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="600" alt="Coding gif"/>
