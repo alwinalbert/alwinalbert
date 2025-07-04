@@ -23,8 +23,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,py,html,css,js,ts,react,nodejs,mongodb,git,github,arduino,vite,tailwindcss" />
   <br />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" style="margin: 10px;" alt="shadcn/ui" />
-  <img src="https://www.sanity.io/static/images/logo_rounded_square.png" height="40" style="margin: 10px;" alt="Sanity" />
+   
 </div>
 
 
