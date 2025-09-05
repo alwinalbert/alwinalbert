@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alwin</h1>
-<h3 align="center">Tech explorer | Embedded Dev | Frontend Wizard | MERN Stack Dev</h3>
+<h3 align="center">Tech explorer | Embedded Dev | Frontend Wizard | MERN Stack Dev | App Dev</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=7B68EE&size=24&center=true&vCenter=true&width=500&height=40&lines=Welcome!;developer." />
 
