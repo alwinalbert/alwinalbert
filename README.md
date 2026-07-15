@@ -13,7 +13,7 @@
 - 🔥 [**Fintrix**](https://github.com/sreeramathrij/fintrix): TypeScript-based Finance Tracker
 - 🎮 [**Tetris Console**](https://github.com/alwinalbert/tetris-console): ESP32-powered game
 - 📱 [**Howaru**](https://github.com/alwinalbert/howaru): Real-time chat-app
-- 🌦️ [**Weather App**](https://github.com/alwinalbert/weather-app): TS + API Integration
+- 🌦️ [**Reg-ME**](https://github.com/alwinalbert/regme): TS + API Integration
 - 🎟️ [**EasyGO**](https://github.com/alwinalbert/EasyGO): Automated ticket system
 
 ---
